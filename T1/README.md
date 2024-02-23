@@ -13,5 +13,4 @@ I am liking this subject, it is a subject from what I see focused on development
 
 **Picture of IES Zaidin Vergeles** 
 
-![T1](/1.png "1")
-
+![P1](/img/1.png "1")
